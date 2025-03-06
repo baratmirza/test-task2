@@ -1,9 +1,12 @@
-body {
-    background-color: lightblue;
-    text-align: center;
+h1{
+    background-color: green;
+    font-size: 80px;
+}
+h2{
+    background-color: aquamarine;
+    font-size: 100px
 }
 
-h1 {
-    color: white;
-    font-family: Arial, sans-serif;
+p{
+    background-color: beige;
 }
